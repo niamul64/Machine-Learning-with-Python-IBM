@@ -27,4 +27,4 @@ Helps to optimize performance criteria with the help of experience.<br>
 Supervised machine learning helps to solve various types of real-world computation problems.<br>
 <br><br><br><br>
 
-<img src='2 types of supervised learning technique.JPG' width="450px">
+<img src='pic/2 types of supervised learning technique.JPG' width="450px">
