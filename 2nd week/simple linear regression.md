@@ -25,6 +25,7 @@ Theta 0 and theta 1 are the parameters of the line that we must adjust. Theta 1 
 ### train/ test split evaluation approach:
 <br>
 <img src="pic/train test evaluation.JPG" width="500px"> 
+<img src="pic/error at of the model.JPG" width="500px"> 
 <br><br>
 <br>
 Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample. The procedure has a single parameter called k that refers to the number of groups that a given data sample is to be split into.<br>
@@ -33,3 +34,19 @@ Cross-validation is a resampling procedure used to evaluate machine learning mod
 
 ### after calculatin the acuracy for each fold <br> 
 ### avarage of all accuracy is the total accuracy <br> 
+
+
+<br><br><br>
+
+## Evaluation Metrics in Regression Models
+A number of model evaluation metrics including <br>
+1. (MAE)mean absolute error,<br>
+2. (MSE)mean squared error,<br>
+3. (RMSE)root mean squared error.<br>
+<img src="pic/ Regression Models errors.JPG" width="500px"> 
+<br>R squared is not an error per se but is a popular metric for the accuracy of your model. It represents how close the data values are to the fitted regression line. <br>
+
+### The higher the R-squared, the better the model fits your data.<br>
+
+### সুত্রঃ r^2 = 1- (sum_Of_all_Errors /some_of_squre_varient_of_mean<br>
+## R-squared is a goodness-of-fit measure for linear regression models.
