@@ -4,5 +4,10 @@ We're going to predict the target value y. In our case using the independent var
 <br>
 Theta 0 and theta 1 are the parameters of the line that we must adjust. Theta 1 is known as the slope or gradient of the fitting line and theta 0 is known as the intercept.
 
-
+<br><br>
 <img src="pic/simple linear  1.JPG" width="500px"> 
+
+<br><br>
+
+### এখন আমাদের কাজ হল থেতা ১ এবং থেতা ২ কে খজা যা best fit line দিবে যার মাদ্ধমে আমরা error (MSE) কমাইতে পারব
+<br>
