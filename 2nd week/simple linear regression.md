@@ -16,3 +16,6 @@ Theta 0 and theta 1 are the parameters of the line that we must adjust. Theta 1 
 <br>
 <img src="pic/theta find.JPG" width="500px"> 
 <br><br>
+
+## NOW, predecting value
+<img src="pic/predecting value.JPG" width="500px"> <br><br>
