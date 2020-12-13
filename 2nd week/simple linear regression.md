@@ -9,5 +9,10 @@ Theta 0 and theta 1 are the parameters of the line that we must adjust. Theta 1 
 
 <br><br>
 
-### এখন আমাদের কাজ হল থেতা ১ এবং থেতা ২ কে খজা যা best fit line দিবে যার মাদ্ধমে আমরা error (MSE) কমাইতে পারব
+### এখন আমাদের কাজ হল থেতা ১ এবং থেতা ২ কে খজা যা best fit line দিবে যার মাদ্ধমে আমরা error (MSE) কমাইতে পারব.. এটা হল mathmatical<br> or আরেক্তা কাজ করা যায় -> optimization approach.<br>
+<br><br>
+
+### mathmatical approch to :
 <br>
+<img src="pic/theta find.JPG" width="500px"> 
+<br><br>
