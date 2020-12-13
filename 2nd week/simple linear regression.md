@@ -28,7 +28,7 @@ Theta 0 and theta 1 are the parameters of the line that we must adjust. Theta 1 
 <br><br>
 <br>
 Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample. The procedure has a single parameter called k that refers to the number of groups that a given data sample is to be split into.<br>
-<img src="pic/k fold cross validation.JPG width="500px"> 
+<img src="pic/k fold cross validation.JPG" width="500px"> 
 <br>
 
 ### after calculatin the acuracy for each fold <br> 
