@@ -19,3 +19,17 @@ Theta 0 and theta 1 are the parameters of the line that we must adjust. Theta 1 
 
 ## NOW, predecting value
 <img src="pic/predecting value.JPG" width="500px"> <br><br>
+
+<br><br>
+
+### train/ test split evaluation approach:
+<br>
+<img src="pic/train test evaluation.JPG" width="500px"> 
+<br><br>
+<br>
+Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample. The procedure has a single parameter called k that refers to the number of groups that a given data sample is to be split into.<br>
+<img src="pic/k fold cross validation.JPG width="500px"> 
+<br>
+
+### after calculatin the acuracy for each fold <br> 
+### avarage of all accuracy is the total accuracy <br> 
