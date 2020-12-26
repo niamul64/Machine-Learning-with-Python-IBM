@@ -43,7 +43,7 @@ A number of model evaluation metrics including <br>
 1. (MAE)mean absolute error,<br>
 2. (MSE)mean squared error,<br>
 3. (RMSE)root mean squared error.<br>
-<img src="pic/ Regression Models errors.JPG" width="500px"> 
+<img src="pic/Regression Models errors.JPG" width="500px"> 
 <br>R squared is not an error per se but is a popular metric for the accuracy of your model. It represents how close the data values are to the fitted regression line. <br>
 
 ### The higher the R-squared, the better the model fits your data.<br>
