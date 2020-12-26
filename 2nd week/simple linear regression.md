@@ -48,5 +48,7 @@ A number of model evaluation metrics including <br>
 
 ### The higher the R-squared, the better the model fits your data.<br>
 
-### সুত্রঃ r^2 = 1- (sum_Of_all_Errors /some_of_squre_varient_of_mean<br>
+### সুত্রঃ r^2 = 1- (sum_Of_all_Errors /some_of_squre_varient_of_mean)<br>
 ## R-squared is a goodness-of-fit measure for linear regression models.
+<br>
+R-squared is not error, but is a popular metric for accuracy of your model. It represents how close the data are to the fitted regression line. The higher the R-squared, the better the model fits your data. Best possible score is 1.0 and it can be negative (because the model can be arbitrarily worse).
